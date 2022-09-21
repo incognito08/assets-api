@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'assets-system-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A89AD2E4013A4742BCE0793F8928F1CF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13417E14E07A45DC9856E297925C3646 }}
